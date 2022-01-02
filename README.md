@@ -14,5 +14,5 @@ John Breton
   </br>
   <b>Cats:</b> Two
   </br>
-  <b>Languages:</b> Java, Python, C, Snom (one of these is a Pokemon)
+  <b>Languages:</b> Java, Python, C, Snom, Turing, C# (one of these is a Pokemon)
 </p>
