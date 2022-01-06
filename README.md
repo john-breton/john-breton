@@ -14,5 +14,7 @@ John Breton
   </br>
   <b>Cats:</b> Two
   </br>
-  <b>Languages:</b> Java, Python, C, Snom, Turing, C# (one of these is a Pokemon)
+  <b>Dark Theme:</b> Correct
+  </br>
+  <b>Languages And Technologies:</b> Java, Python, C, Snom, React, Linux, Git, Ansible, AWS (EC2 & S3), Google Cloud (GCE & GCS), DigitalOcean, Turing, C# (one of these is a Pokemon)
 </p>
