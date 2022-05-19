@@ -8,7 +8,9 @@ John Breton
   <p align="center">
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-breton&count_private=true&show_icons=true&icon_color=fff&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
 </p>
-  <b>Expected Graduation:</b> April 2022
+  <b>M.A.Sc Electrical and Computer Engineering (Software Engineering):</b> 2022-202X (Ongoing)
+  </br>
+  <b>B.Eng - Software Engineering CO-OP: </b> 2018-2022
   </br>
   <b>Pronouns:</b> he/him
   </br>
