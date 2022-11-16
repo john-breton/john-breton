@@ -14,7 +14,7 @@ John Breton
   </br>
   <b>Pronouns:</b> he/him
   </br>
-  <b>Cats:</b> Two
+  <b>Cats:</b> Three
   </br>
   <b>Dark Theme:</b> Correct
   </br>
