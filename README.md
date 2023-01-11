@@ -12,6 +12,8 @@ John Breton
   </br>
   <b>B.Eng. Software Engineering CO-OP: </b> Carleton University (graduated April 2022)
   </br>
+  <b>Research Focus: </b> Behavioural Software Security
+  </br>
   <b>Pronouns:</b> he/him
   </br>
   <b>Cats:</b> Three
