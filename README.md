@@ -1,6 +1,4 @@
-<h1 align="center">
-John Breton
-</h1>
+<h1 align="center">John Breton</h1>
 
 <p align="center">
   Did you know I was almost named Elzevir? Wait what? You didn't come to my GitHub profile for fun facts about me?
