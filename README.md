@@ -8,7 +8,8 @@
   <ol>
     <li>J Breton, J Jaskolka, GOM Yee, <i>Hardening Systems Against Data Corruption Attacks at Design Time</i> - <a href="https://www.fps-2023.com/index.php/detailed-program/">FPS 2023</a></li>
     <ul>
-      <li>Paper source pending</li>
+      <li>Locked behind a paywall, but the paper can be read <a href="https://link.springer.com/chapter/10.1007/978-3-031-57537-2_24">here</a></li>
+      <li>If you have any interest in the research and cannot access the paper because of the paywall, please <a href="mailto:johnbreton37@gmail.com">email me</a></li>
     </ul>
     <li>J Breton, AR Abdou, <i>Applying Accessibility Metrics to Measure the Threat Landscape for Users with Disabilities</i> - <a href="https://madweb.work/program23/">MADWeb 2023</a></li>
     <ul>
