@@ -24,7 +24,7 @@
     <li>M.A.Sc. Electrical and Computer Engineering (Software Engineering) - Carleton University <img src="https://github.com/john-breton/john-breton/assets/55368611/4866ddec-34d0-403b-a17c-0c446b6ad11d" alt="The Carleton University Logo, a red maple leaf within a black shield, with two white waves at the bottom of the shield" style="height: 18px; width: 18px;">
 </li>
     <ul>
-      <li><b>Expected Graduation:</b> Summer 2024</li>
+      <li><b>Successfully Defended as of August 30th, 2024 🎉</li>
       <li><b>Thesis Title:</b> Analyzing the Behavioural Security Posture of Software Systems </li>
     </ul>
   <li>B.Eng. Software Engineering - Carleton University <img src="https://github.com/john-breton/john-breton/assets/55368611/4866ddec-34d0-403b-a17c-0c446b6ad11d" alt="The Carleton University Logo, a red maple leaf within a black shield, with two white waves at the bottom of the shield" style="height: 18px; width: 18px;"></li>
