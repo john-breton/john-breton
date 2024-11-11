@@ -6,6 +6,10 @@
 <p>
   Current publications 📄:
   <ol>
+    <li>J Breton, J Jaskolka, GOM Yee, <i>An Approach to Determine a System's Behavioural Security Posture</i> - <a href="https://www.fps-2024.com/index.php/detailed-program/">FPS 2024</a></li>
+    <ul>
+      <li>Accepted to FPS 2024, currently pending publication</li>
+    </ul>
     <li>J Breton, J Jaskolka, GOM Yee, <i>Hardening Systems Against Data Corruption Attacks at Design Time</i> - <a href="https://www.fps-2023.com/index.php/detailed-program/">FPS 2023</a></li>
     <ul>
       <li>Locked behind a paywall, but the paper can be read <a href="https://link.springer.com/chapter/10.1007/978-3-031-57537-2_24">here</a></li>
@@ -24,7 +28,7 @@
     <li>M.A.Sc. Electrical and Computer Engineering (Software Engineering) - Carleton University <img src="https://github.com/john-breton/john-breton/assets/55368611/4866ddec-34d0-403b-a17c-0c446b6ad11d" alt="The Carleton University Logo, a red maple leaf within a black shield, with two white waves at the bottom of the shield" style="height: 18px; width: 18px;">
 </li>
     <ul>
-      <li><b>Successfully Defended as of August 30th, 2024 🎉</li>
+      <li>Successfully Defended as of August 30th, 2024 🎉</li>
       <li><b>Thesis Title:</b> Analyzing the Behavioural Security Posture of Software Systems </li>
     </ul>
   <li>B.Eng. Software Engineering - Carleton University <img src="https://github.com/john-breton/john-breton/assets/55368611/4866ddec-34d0-403b-a17c-0c446b6ad11d" alt="The Carleton University Logo, a red maple leaf within a black shield, with two white waves at the bottom of the shield" style="height: 18px; width: 18px;"></li>
