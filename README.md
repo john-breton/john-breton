@@ -4,7 +4,7 @@
   Did you know I was almost named Elzevir? Wait what? You didn't come to my GitHub profile for fun facts about me?
 </p>
 <p>
-  Current publications 📄:
+  Publications 📄:
   <ol>
     <li>J Breton, J Jaskolka, GOM Yee, <i>An Approach to Determine a System's Behavioural Security Posture</i> - <a href="https://www.fps-2024.com/index.php/detailed-program/">FPS 2024</a></li>
     <ul>
